@@ -29,8 +29,7 @@ This table lists all lab session and coding challenge session incl. the launcher
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|:-------:|
 | Mon, OCT. 9            | **Lab 1**   | Meta Learning          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]() |
 | Mon, OCT. 16            | **Lab 2**   | Continual Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]() |
-
-
+| Mon, Nov. 20            | **Lab 4**   | Federated Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2023-Lab/blob/main/lab_4/colab_04.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2023-Lab/blob/main/lab_4/colab_04.ipynb) |
 
 ## How To Run the Course Code Lab Notebooks
 
