@@ -1,12 +1,10 @@
 ![Course Banner](banner.png)
 
-<!-- ![Course Banner](banner.png) -->
-
-Welcome Fall Semester 2023 students to our course **Deep Learning**, taught by **Prof. Dr. Damian Borth**.
+Welcome Fall Semester 2025 students to our course **Deep Learning**, taught by **Prof. Dr. Damian Borth**.
 
 Lectures and hands-on lab courses alternate to provide a better learning experience in this course. The materials for Deep Learning labs are available and accessible through this repository.
 
-The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org) and [PyTorch](https://pytorch.org). This repository is supported by the course TAs [Shijun Wang](https://www.alexandria.unisg.ch/persons/9895) and [Linus Scheibenreif](https://www.alexandria.unisg.ch/persons/9588). Lab notebooks are developed by [Hamed Hemati](https://www.alexandria.unisg.ch/persons/8884).
+The the lab content is based on [Python](https://www.python.org), [Jupyter Notebook](https://jupyter.org) and [PyTorch](https://pytorch.org). This repository is supported by the course TAs [Konstantinos Tzevelekakis](https://www.alexandria.unisg.ch/entities/person/Konstantinos_Ioannis_Tzevelekakis) and [Aron Asefaw](https://ics.unisg.ch/the-institute/about-us/team/detail/person-id/51e76fca-37cd-4d91-a230-12a6540ec575/). Lab notebooks are developed by [Hamed Hemati](https://www.alexandria.unisg.ch/persons/8884).
 
 
 
@@ -14,35 +12,25 @@ Happy Coding!
 
 ## Course Logistics
 
-- **Lectures:** Mondays 2:15-3:45PM CET, Zoom links are posted on Canvas.
-- **Labs:** Mondays 4:15-5:45PM CET, Zoom links are posted on Canvas.
+- **Lectures:** Wednesdays 2:15-3:45PM CET
+- **Labs:** Wednesdays 4:15-5:45PM CET
 
-- **Labs Office Hours:** Tuesdays 2:00-3:00PM CET ([Linus Scheibenreif](https://www.alexandria.unisg.ch/persons/9588)) or Thursdays 2:00-3:00PM CET ([Shijun Wang](https://www.alexandria.unisg.ch/persons/9895)), please send us a corresponding invitation via mail.
 - **Announcements:** All course-related announcements and questions will happen on Canvas.
 
 ## Course Code Lab Notebooks ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
-This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers. We aim to upload each lab notebook the day before the lab respectively.
+This table lists all lab session and coding challenge session incl. the launchers of the corresponding notebooks. In order to start the notebooks in the respective cloud environment just click on the to corresponding launchers.
 
 
 | Date                    | Lab        |  Content                         |  CoLab                 | MyBinder|
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|:-------:|
-| Mon, OCT. 9            | **Lab 1**   | Meta Learning          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]() |
-| Mon, OCT. 16            | **Lab 2**   | Continual Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Binder](https://mybinder.org/badge_logo.svg)]() |
-| Mon, Nov. 20            | **Lab 4**   | Federated Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2023-Lab/blob/main/lab_4/colab_04.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2023-Lab/blob/main/lab_4/colab_04.ipynb) |
+| TBA            | **Lab 1**   | Meta Learning          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2025-Lab/blob/1b0d1d6c9ef3cd4755a57b972b3f243b2b8e70cc/lab_1/meta-learning_lab.ipynb)
+| TBA            | **Lab 2**   | Continual Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2025-Lab/blob/1b0d1d6c9ef3cd4755a57b972b3f243b2b8e70cc/lab_2/continual_learning_lab.ipynb)
+| TBA            | **Lab 3**   | Hyper Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2025-Lab/blob/1b0d1d6c9ef3cd4755a57b972b3f243b2b8e70cc/lab_3/hypernetworks_lab.ipynb)
 
 ## How To Run the Course Code Lab Notebooks
 
-#### Option 1: Binder Cloud Environment ([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GitiHubi/courseAAA/main))
-
-This is probably the easiest way to run a Notebook in your web browser: just click on the binder badge next to
-the Notebooks below, and off you go. Binder is a service that lets you run Jupyter Notebooks in their cloud at no charge.
-There is no registration and no login required. However, keep in mind that you cannot save any data or your Notebook file in the cloud (you can save them
-on your computer, though). Also, starting a binder
-Notebook can take quite some time, but the performance during runtime is good.
-For more information, please refer to the [Binder documentation](https://mybinder.readthedocs.io/en/latest/index.html).
-
-#### Option 2: Google Colab Environment ([![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GitiHubi/courseAAA/blob/main))
+#### Option 1: Google Colab Environment
 
 Similar to binder, you just have to click the Colab badge next to the Notebooks below. All you need is a Google login
 (e.g., your login information for gmail) and you can use this service at no charge.
@@ -50,7 +38,7 @@ Two advantages of Colab are that (1) you can save your
 Notebooks directly into your Google Drive and read data from there, and (2) Google provides you with some limited GPU capabilities
 free of charge (this will be an interesting feature for the coding challenge.)
 
-#### Option 3: Local Python Installation ([![Install Python](https://img.shields.io/badge/python-v3.7-green)](https://python.org), [![Install Anaconda](https://img.shields.io/badge/conda-v3.7.1-green)](https://anaconda.com))
+#### Option 2: Local Python Installation
 
 If you prefer to run Notebooks locally on your computer, you will need to install Python. If you choose to do so,
 we recommend to install [Anaconda Python](https://www.anaconda.com/products/individual), a package that combines the
@@ -64,4 +52,4 @@ If you need help running Python and/or Jupyter Notebooks, please don't hesitate 
 
 ## Questions?
 
-Please use the Canvas forum for course related questions. For external enquiries, emergencies, or personal matters that you don't wish to put in a forum post, you can email us via: `aiml (minus) teaching ( dot ) ics ( at ) unisg ( dot ) ch`.
+- For course related questions use [Canvas](https://learning.unisg.ch/courses/24693). For external enquiries, emergencies, or personal matters that you don't wish to put in a forum post, you can email us via: [aiml-teaching.ics@unisg.ch](mailto:aiml-teaching.ics@unisg.ch?subject=DL2025%20|%20place%20your%20subject%20here"). Please make sure that the subject of your email is appropriately prefixed with the course's name `DL2025`.
