@@ -24,7 +24,7 @@ This table lists all lab session and coding challenge session incl. the launcher
 
 | Date                    | Lab        |  Content                         |  CoLab                 | MyBinder|
 |:-----------------------:|:--------------:|:---------------------------------|:-------------------------------:|:-------:|
-| TBA            | **Lab 1**   | Meta Learning          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2025-Lab/blob/main/lab_1/meta-learning_lab.ipynb)
+| 08.10.2025            | **Lab 1**   | Meta Learning          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2025-Lab/blob/main/lab_1/meta-learning_lab.ipynb)
 | TBA            | **Lab 2**   | Continual Learning     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2025-Lab/blob/main/lab_2/continual_learning_lab.ipynb)
 | TBA            | **Lab 3**   | Hyper Networks | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HSG-AIML-Teaching/DL2025-Lab/blob/main/lab_3/hypernetworks_lab.ipynb)
 
